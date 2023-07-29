@@ -21,7 +21,7 @@
              <font style="font-size: 15pt; font-family: monospace;">TRICHIRAPALLI</font>
              <br>
             <div class="logo" align="right">
-               <img src="admin-logo.png" width="47" height="47" align="left">
+               <img src="C:\Users\DELL\Desktop\logo.jpg" width="47" height="47" align="left">
             </div>
             <div class="topnav">
                <a href="admin.php">ADMIN</a>

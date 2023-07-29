@@ -33,7 +33,7 @@
 
     <div class="header" align="center">
         <div class="img">
-        <img src="aac-logo.png" width="115" height="122" align="left">
+        <img src="C:\Users\DELL\Desktop\logo.jpg" width="115" height="122" align="left">
         </div>
         <div class="text">
         <font style="font-size: 24pt; font-weight: bold; font-family: monospace;">ST.JOSEPH COLLEGE(AUTONOMOUS)</font>
