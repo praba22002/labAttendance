@@ -14,11 +14,11 @@
             <img src="aac-logo.png" width="115" height="122" align="left">
         </div>
         <div class="text">
-             <font style="font-size: 24pt; font-weight: bold; font-family: monospace;"> ARUL ANANDAR COLLEGE (AUTONOMOUS) </font>
+             <font style="font-size: 24pt; font-weight: bold; font-family: monospace;">ST.JOSEPH COLLEGE(AUTONOMOUS)</font>
              <br>
-             <font style="font-size: 15pt;  font-family: monospace;"> (AFFILIATED TO MADURAI KAMARAJ UNIVERSITY) </font>
+             <font style="font-size: 15pt;  font-family: monospace;">(AFFILIATED TO BHARATHIDASAN UNIVERSITY)</font>
              <br>
-             <font style="font-size: 15pt; font-family: monospace;"> KARUMATHUR - 625 514, MADURAI </font>
+             <font style="font-size: 15pt; font-family: monospace;">TRICHIRAPALLI</font>
              <br>
             <div class="logo" align="right">
                <img src="admin-logo.png" width="47" height="47" align="left">
@@ -31,7 +31,7 @@
     </div>
 <br>
 <div class="title">
-   <font style="font-size: 24pt; font-weight: bold; font-family: monospace;">AAC LAB ATTENDANCE </font>
+   <font style="font-size: 24pt; font-weight: bold; font-family: monospace;">SJC LAB ATTENDANCE </font>
 </div>
 <br>
    <hr size="1px" color="white" ></hr>

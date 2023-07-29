@@ -15,17 +15,17 @@
          <img src="aac-logo.png" width="115" height="122" align="left">
         </div>
         <div class="text">
-          <font style="font-size: 24pt; font-weight: bold; font-family: monospace;"> ST. JOSEPH COLLEGE (AUTONOMOUS) </font>
+          <font style="font-size: 24pt; font-weight: bold; font-family: monospace;">ST. JOSEPH COLLEGE (AUTONOMOUS)</font>
           <br>
-          <font style="font-size: 15pt;  font-family: monospace;"> (AFFILIATED TO MADURAI BHARATHIDASAN  UNIVERSITY) </font>
+          <font style="font-size: 15pt;  font-family: monospace;">(AFFILIATED TO BHARATHIDASAN  UNIVERSITY)</font>
           <br>
-          <font style="font-size: 15pt; font-family: monospace;">  TRICHIRAPALLI-60002 </font>
+          <font style="font-size: 15pt; font-family: monospace;">TRICHIRAPALLI-60002</font>
           <br>
        </div>
   </div>
   <br>
   <div class="title" align="center">
-    <font style="font-size: 24pt; font-weight: bold; font-family: monospace;" >ADMIN LOGIN </font>
+    <font style="font-size: 24pt; font-weight: bold; font-family: monospace;" >ADMIN LOGIN</font>
    </div>
   <br>
   <hr size="1px" color="white" ></hr>
